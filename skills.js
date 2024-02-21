@@ -1,3 +1,3 @@
-function calculatePercentage(value, total) {
-  return (value / total) * 100;
+function calculateNumbers(var1, var2) {
+  return var1 + var2;
 }
